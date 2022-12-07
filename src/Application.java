@@ -12,6 +12,6 @@ public class Application {
     }
 
     private static void addTestPanel() {
-        var panel = new JFrame()
+        var panel = new JFrame();
     }
 }
